@@ -7,6 +7,47 @@ payload:
   - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,lanzov.com
   - DOMAIN-SUFFIX,hao123.com
+  
+  # PT
+  - DOMAIN,ourbits.club
+  - DOMAIN,pterclub.com
+  - DOMAIN,btschool.club
+  - DOMAIN,dicmusic.com
+  - DOMAIN,gazellegames.net
+  - DOMAIN,greatposterwall.com
+  - DOMAIN,aidan.video
+  - DOMAIN,hd-torrents.org
+  - DOMAIN,hd4fans.org
+  - DOMAIN,hdarea.club
+  - DOMAIN,hdchina.org
+  - DOMAIN,www.hddolby.com
+  - DOMAIN,hdhome.org
+  - DOMAIN,hdsky.me
+  - DOMAIN,hdtime.org
+  - DOMAIN,pt.hdupt.com
+  - DOMAIN,hdfun.me
+  - DOMAIN,hdvbits.com
+  - DOMAIN,iptorrents.com
+  - DOMAIN,lemonhd.org
+  - DOMAIN,xp.m-team.cc
+  - DOMAIN,www.nicept.net
+  - DOMAIN,open.cd
+  - DOMAIN,onlineselfeducation.com
+  - DOMAIN,ourhelp.club
+  - DOMAIN,keepfrds.com
+  - DOMAIN,pthome.net
+  - DOMAIN,msg.vg
+  - DOMAIN,pussytorrents.org
+  - DOMAIN,soulvoice.club
+  - DOMAIN,springsunday.net
+  - DOMAIN,eastgame.org
+  - DOMAIN,et8.org
+  - DOMAIN,torrentleech.org
+  - DOMAIN,totheglory.im
+  - DOMAIN,tjupt.org
+  - DOMAIN,nanyangpt.com
+  - DOMAIN,hdpt.xyz
+  
 
   # 域名关键字匹配
   - DOMAIN-KEYWORD,baidu
