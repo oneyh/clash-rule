@@ -9,6 +9,9 @@ payload:
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,themoviedb.org
 
+  # 其他需代理
+  - DOMAIN,gmail.com 
+  
   # 域名关键字匹配
   - DOMAIN-KEYWORD,1e100
 

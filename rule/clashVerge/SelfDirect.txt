@@ -10,6 +10,7 @@ payload:
   
   # PT
   - DOMAIN,ourbits.club
+  - DOMAIN,hdvbits.com
   - DOMAIN,pterclub.com
   - DOMAIN,btschool.club
   - DOMAIN,dicmusic.com
